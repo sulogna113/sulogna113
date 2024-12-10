@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 
+- 👋 I’m Sulogna
+- 👀 I’m interested in creating stuffs and learn new things
+- 🌱 I’m currently learning Backend
+- ✨ Lost my previous github account in case you wanna visit https://github.com/sulogna2001
+- 💞️ I’m looking for great ideas for creating projects
 
 <!--
 **sulogna113/sulogna113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
